@@ -1,4 +1,4 @@
-# caso houver outros projetos com outras dependnecias e der erro de conflito e você não deseja desintalar vc pode criar uma venv e rodar esse projeto
+ caso houver outros projetos com outras dependnecias e der erro de conflito e você não deseja desintalar vc pode criar uma venv e rodar esse projeto
 
 python 3.10 version
 
